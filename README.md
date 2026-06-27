@@ -1,5 +1,6 @@
 <h1 align=center>
-Wellcome!
+Wellcome!         
+<img width="40" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JzN29oZ2ZpZ3lienFtZzBwcmIwbzgzM2d4emszb3A1a3I4Y3R0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KeqkVM3ghix9uRjXCc/giphy.gif" width="200">
 </h1> 
 
 My name is **Larry Silva** and I'm a 19 years-old computer enthusiast! <br>
