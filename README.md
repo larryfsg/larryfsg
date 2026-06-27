@@ -1,11 +1,11 @@
 <h1 align=center>
 Wellcome!
-</h1> <br>
+</h1> 
 
 My name is **Larry Silva** and I'm a 19 years-old computer enthusiast! <br>
 * **I'm an Information Systems undergraduate at University of São Paulo!** <br>
 * I'm a monitor at the Professor Odelar Leite Linhares Museum of Computing
-<br><br>
+<br>
 
 <h2 align=center>
 About me
