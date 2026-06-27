@@ -29,6 +29,19 @@ About me
 Skills
 </h2>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,c,cpp,java,py,git,linux" />
+  </a>
+</p>
+
+
+<h2 align=center>
+Contact
+</h2>
+
+📧 [larryfelipe2018@gmail.com](mailto:larryfelipe2018@gmail.com)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
